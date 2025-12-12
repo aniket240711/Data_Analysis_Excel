@@ -39,6 +39,9 @@ specific occasions
 
 - Monthly Pattern: Revenue and order quantity show a rising trend during festive and special-occasion months.
 
+**Dashboard** : ![Uploading screenshot Dashnoard.png…]()
+
+
 ## Areas To Improve
 
 - Low Revenue in Some Occasions: Festivals like Diwali and Holi show much lower revenue compared to occasions like Birthdays and Anniversaries, These categories may need better marketing or product bundles.
