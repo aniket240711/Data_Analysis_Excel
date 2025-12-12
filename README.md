@@ -39,7 +39,8 @@ specific occasions
 
 - Monthly Pattern: Revenue and order quantity show a rising trend during festive and special-occasion months.
 
-**Dashboard** : ![Uploading screenshot Dashnoard.png…]()
+**Dashboard** : <img width="853" height="472" alt="image" src="https://github.com/user-attachments/assets/3666861e-616b-422a-96fe-5961e101a67e" />
+
 
 
 ## Areas To Improve
